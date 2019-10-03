@@ -2,7 +2,7 @@
 
 A list of some SPOJ problems which are interesting, brainstorming and helps understanding and implementing the concepts of Algos and Data Structures.
 
-## DP
+## Dyanamic programming
 
 * [MARTIAN](http://www.spoj.com/problems/MARTIAN/) (for beginners)
 * [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
